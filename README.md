@@ -2,5 +2,5 @@
 libuv net test
 
  
-测试代码备份
+基于libuv的跨平台网络库测试代码，包含tcp和可靠udp(kcp)功能
  
